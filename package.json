@@ -15,6 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "dangerously-set-html-content": "^1.0.8",
     "gatsby": "^3.10.1",
     "gatsby-plugin-react-helmet": "^4.10.0",
     "gatsby-plugin-sitemap": "^4.6.0",
